@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-search-scraper",
+  "name": "puppeteer-g-search-scraper",
   "description": "Scrape Search Engines using Puppeteer",
   "keywords": [
     "puppeteer",
@@ -14,8 +14,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
-  "homepage": "https://github.com/IonicaBizau/puppeteer-search-scraper#readme",
+  "author": "Emrah Yurttutan <emrahyurttutan@gmail.com> (https://yurttutan.net)",
+  "homepage": "https://github.com/emrahyurttutan/puppeteer-search-scraper#readme",
   "files": [
     "bin/",
     "app/",
@@ -38,7 +38,7 @@
     "url": "git+ssh://git@github.com/IonicaBizau/puppeteer-search-scraper.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/puppeteer-search-scraper/issues"
+    "url": "https://github.com/emrahyurttutan/puppeteer-search-scraper/issues"
   },
   "dependencies": {
     "puppeteer": "^18.0.5"
